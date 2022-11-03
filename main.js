@@ -3,7 +3,23 @@
 //
 
 
-function squatLeaders {
-//write your code in here!
-
+function squatLeaders(){
+    const expected = [
+        {
+            name: "Arshi",
+            score: "101"
+        },
+        {
+            name: "Jordan",
+            score: "100"
+        },
+        {
+            name: "Chris",
+            score: "80"
+        }
+    ]
+    return expected;
 }
+  
+
+
